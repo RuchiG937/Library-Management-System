@@ -72,39 +72,11 @@ Library_Management_System/
 ├── students.csv
 ├── books.csv
 ├── library.db
-├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation
-
-### Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-### Navigate to the project
-
-```bash
-cd Library_Management_System
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📷 Application Modules
 
